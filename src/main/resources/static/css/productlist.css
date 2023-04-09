@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+.pagination-right button:last-child{
+	margin-right: 1.2%;
+}
+.pagination-left span{
+	padding-left: 2%;
+}
+.pagination-right span{
+	padding-right: 2%;
+}
